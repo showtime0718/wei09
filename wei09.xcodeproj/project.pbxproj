@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		18F2325C1EF3687200676146 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F2325B1EF3687200676146 /* main.swift */; };
 		18F232631EF36B5700676146 /* Myclass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F232621EF36B5700676146 /* Myclass.swift */; };
+		18F232651EF3708000676146 /* Myteacher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F232641EF3708000676146 /* Myteacher.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		18F232581EF3687200676146 /* wei09 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = wei09; sourceTree = BUILT_PRODUCTS_DIR; };
 		18F2325B1EF3687200676146 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		18F232621EF36B5700676146 /* Myclass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Myclass.swift; sourceTree = "<group>"; };
+		18F232641EF3708000676146 /* Myteacher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Myteacher.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				18F2325B1EF3687200676146 /* main.swift */,
 				18F232621EF36B5700676146 /* Myclass.swift */,
+				18F232641EF3708000676146 /* Myteacher.swift */,
 			);
 			path = wei09;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				18F232631EF36B5700676146 /* Myclass.swift in Sources */,
+				18F232651EF3708000676146 /* Myteacher.swift in Sources */,
 				18F2325C1EF3687200676146 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

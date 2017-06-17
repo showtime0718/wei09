@@ -41,7 +41,7 @@ class MyClass05{
 }
 class MyClass06{
     var y = 123
-    var x:Int{
+    var x:Int{/Users/apple/swift/wei09/wei09/Myteacher.swift
         return y * y
     }
 }
